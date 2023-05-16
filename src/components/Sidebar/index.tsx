@@ -1,5 +1,5 @@
 import { BsFillPencilFill } from 'react-icons/bs';
-import { Avatar } from './Avatar';
+import { Avatar } from '../Avatar';
 
 import styles from "./Sidebar.module.css";
 

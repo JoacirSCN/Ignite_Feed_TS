@@ -1,7 +1,7 @@
 import styles from "./Comment.module.css";
 import { BsFillTrashFill } from 'react-icons/bs';
 import { TiThumbsUp } from 'react-icons/ti';
-import { Avatar } from "./Avatar";
+import { Avatar } from "../Avatar";
 import { useState } from "react";
 
 interface CommentProps {
